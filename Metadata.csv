@@ -1,0 +1,33 @@
+Variable,Definition
+X1,Interest Rate 
+X2,Unique id loan.
+X3,Borrower id
+X4,Loan amount requested
+X5,Loan amount funded
+X6,Investor-funded portion of loan
+X7,Number of payments (36 or 60)
+X8,Loan grade
+X9,Loan subgrade
+X10,Employer or job title (self-filled)
+X11,Number of years employed (0 to 10; 10 = 10 or more)
+X12,Home ownership status
+X13,Annual income of borrower
+X14,"Income verified, not verified, or income source was verified"
+X15,Date loan was issued
+X16,Reason for loan by borrower
+X17,Loan category by borrower
+X18,Loan title by borrower
+X19,First 3 numbers of zip code
+X20,State of borrower
+X21,Debt-to-Income ratio
+X22,Past-due incidences of delinquency in the borrower's credit file for the past 2 years
+X23,Date the borrower's earliest reported credit line was opened
+X24,Inquiries by creditors during the past 6 months.
+X25,Months since the borrower's last delinquency.
+X26,Months since the last public record.
+X27,Open credit lines in the borrower's credit file.
+X28,Derogatory public records
+X29,Total credit revolving balance
+X30,"Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit."
+X31,The total number of credit lines currently in the borrower's credit file
+X32,"The initial listing status of the loan. Possible values are ‰ÛÒ W, F"
